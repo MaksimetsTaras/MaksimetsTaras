@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaksimetsTaras
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, Java, Android Studio
-- 💞️ I’m looking to collaborate on some Android project
+- 🌱 I’m currently learning C#, SQL, Java, Android Studio
 - 📫 You can easily reach me by Email taras.maksimets@gmail.com
 
 <!---
